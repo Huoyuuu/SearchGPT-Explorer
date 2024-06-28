@@ -2,6 +2,8 @@
 
 SearchGPT-Explorer is a project that integrates search API capabilities with large language models, enabling real-time web information access similar to New Bing. This project allows standard GPT models to perform up-to-date information retrieval and intelligent question answering.
 
+[中文版 README](https://github.com/Huoyuuu/SearchGPT-Explorer/blob/main/README_CN.md)
+
 ## Features
 
 - Seamless integration of search API with GPT models
