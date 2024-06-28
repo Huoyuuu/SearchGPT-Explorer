@@ -1,54 +1,54 @@
 # SearchGPT-Explorer
 
-SearchGPT-Explorer is a project that integrates search API capabilities with large language models, enabling real-time web information access similar to New Bing. This project allows standard GPT models to perform up-to-date information retrieval and intelligent question answering.
+SearchGPT-Explorer 是一个将搜索 API 功能与大型语言模型集成的项目，实现了类似 New Bing 的实时网络信息访问能力。该项目使普通的 GPT 模型能够执行最新信息检索和智能问答。
 
-[中文版 README](https://github.com/Huoyuuu/SearchGPT-Explorer/blob/main/README_CN.md)
+[English README](https://github.com/Huoyuuu/SearchGPT-Explorer/blob/main/README.md)
 
-## Features
+## 特性
 
-- Seamless integration of search API with GPT models
-- Real-time web information retrieval
-- Dynamic function calling for flexible search operations
-- Error handling and robust API interaction
-- Easy-to-use interface for enhanced AI conversations
+- 集成搜索 API 和 GPT 模型
+- 实时网络信息检索
+- 动态函数调用，实现灵活的搜索操作
+- 错误处理和稳健的 API 交互
+- 复用`function calling`功能，接口易用，增强 AI 对话能力
 
-## Getting Started
+## 快速开始
 
-### Prerequisites
+### 前提条件
 
 - Python 3.7+
-- OpenAI API key
-- DuckDuckGo Search API (no key required)
+- OpenAI API 密钥
+- DuckDuckGo 搜索 API（无需密钥）
 
-### Installation
+### 安装
 
-1. Clone the repository:
+1. 克隆仓库：
    ```
    git clone https://github.com/yourusername/SearchGPT-Explorer.git
    ```
 
-2. Install required packages:
+2. 安装所需包：
    ```
    pip install -r requirements.txt
    ```
 
-3. Set up your OpenAI API key as an environment variable:
+3. 设置 OpenAI API 密钥为环境变量：
    ```
    export OPENAI_API_KEY='your-api-key-here'
    ```
 
-### Usage
+### 使用
 
-Run the main script:
+运行主脚本：
 
 ```
 python search_gpt_core.py
 ```
 
-## Contributing
+## 贡献
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+欢迎贡献！请随时提交 Pull Request。
 
-## License
+## 许可证
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+该项目采用 MIT 许可证 - 详情请见 [LICENSE](LICENSE) 文件。
