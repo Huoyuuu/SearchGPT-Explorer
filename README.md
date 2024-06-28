@@ -24,7 +24,7 @@ SearchGPT-Explorer 是一个将搜索 API 功能与大型语言模型集成的�
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/yourusername/SearchGPT-Explorer.git
+   git clone https://github.com/Huoyuuu/SearchGPT-Explorer.git
    ```
 
 2. 安装所需包：
