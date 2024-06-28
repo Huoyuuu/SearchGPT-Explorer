@@ -24,7 +24,7 @@ SearchGPT-Explorer is a project that integrates search API capabilities with lar
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/SearchGPT-Explorer.git
+   git clone https://github.com/Huoyuuu/SearchGPT-Explorer.git
    ```
 
 2. Install required packages:
