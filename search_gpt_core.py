@@ -88,6 +88,8 @@ def main(question):
         return
 
     if response_message.function_call:
+        if not response_message.content:
+            response_message.content = ""
         function_response = process_function_call(response_message)
         if function_response:
             messages.extend([
